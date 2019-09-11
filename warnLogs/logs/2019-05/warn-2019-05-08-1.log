@@ -1,0 +1,8 @@
+[12:59:01:284] [WARN] - org.springframework.boot.actuate.endpoint.EndpointId.logWarning(EndpointId.java:135) - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+[12:59:02:966] [WARN] - com.netflix.config.sources.URLConfigurationSource.<init>(URLConfigurationSource.java:121) - No URLs will be polled as dynamic configuration sources.
+[12:59:05:432] [WARN] - com.netflix.config.sources.URLConfigurationSource.<init>(URLConfigurationSource.java:121) - No URLs will be polled as dynamic configuration sources.
+[12:59:10:227] [WARN] - com.zaxxer.hikari.util.DriverDataSource.<init>(DriverDataSource.java:68) - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+[13:06:43:538] [WARN] - org.springframework.boot.actuate.endpoint.EndpointId.logWarning(EndpointId.java:135) - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+[13:06:44:789] [WARN] - com.netflix.config.sources.URLConfigurationSource.<init>(URLConfigurationSource.java:121) - No URLs will be polled as dynamic configuration sources.
+[13:06:46:827] [WARN] - com.netflix.config.sources.URLConfigurationSource.<init>(URLConfigurationSource.java:121) - No URLs will be polled as dynamic configuration sources.
+[13:06:50:722] [WARN] - com.zaxxer.hikari.util.DriverDataSource.<init>(DriverDataSource.java:68) - Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
